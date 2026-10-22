@@ -5,10 +5,14 @@ Dashboard Power BI trực quan dữ liệu từ 3 hệ thống bán hàng dượ
 > **Lưu ý:** Toàn bộ dữ liệu trong dashboard là dữ liệu minh họa.
 
 ## Live dashboard
+Truy cập vào dashboard bằng 1 trong 2 cách:
 
-[Mở dashboard trên On Hand BI](https://report.onhandbi.com/public/report?token=eyJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfbGlua19pZCI6NzM5LCJoYXNfcGFzc2NvZGUiOnRydWUsInRpbWUiOjE3OTI2ODcyNTZ9.uOhgjAfNDZDLgkvz-kJHtnTClRMSlE_IWJkjZWIFcXs)
+[Mở dashboard trên On Hand BI không cần đăng nhập - nhập mật khẩu dưới](https://report.onhandbi.com/public/report?token=eyJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfbGlua19pZCI6NzM5LCJoYXNfcGFzc2NvZGUiOnRydWUsInRpbWUiOjE3OTI2ODcyNTZ9.uOhgjAfNDZDLgkvz-kJHtnTClRMSlE_IWJkjZWIFcXs)
 
-**Mật khẩu:** `Nhập mật khẩu tại đây`
+**Mật khẩu:** `551029`
+
+[Mở dashboard trên On Hand BI cần đăng ký tài khoản](https://report.onhandbi.com/public/report?token=eyJhbGciOiJIUzI1NiJ9.eyJwdWJsaWNfbGlua19pZCI6NzM5LCJoYXNfcGFzc2NvZGUiOnRydWUsInRpbWUiOjE3OTI2ODcyNTZ9.uOhgjAfNDZDLgkvz-kJHtnTClRMSlE_IWJkjZWIFcXs)
+
 
 ## Tổng quan dự án
 
