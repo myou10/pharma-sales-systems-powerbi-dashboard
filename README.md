@@ -78,29 +78,3 @@ Trang `Overview` bao gồm:
 | `Doanh số sau chiết khấu (-VAT)` | Doanh số sau chiết khấu, chưa gồm VAT |
 | `Tiền VAT` | Thuế VAT |
 | `Thanh toán` | Tổng giá trị thanh toán sau VAT |
-
-## Các measure chính
-
-```DAX
-Doanh thu (-VAT) =
-SUM ( FACT_SALES[Doanh số sau chiết khấu (-VAT)] )
-
-Tiền VAT =
-SUM ( FACT_SALES[Tiền VAT] )
-
-Thành tiền (+VAT) =
-SUM ( FACT_SALES[Thanh toán] )
-
-Số lượng =
-SUM ( FACT_SALES[Số lượng] )
-```
-
-Dashboard còn sử dụng measure hỗ trợ đổi chỉ tiêu, mô tả kỳ báo cáo, tô màu Min/Max và xếp hạng Top/Bottom sản phẩm.
-
-## Công nghệ sử dụng
-
-- Microsoft Power BI Desktop
-- Power Query M
-- DAX
-- Microsoft Excel
-- On Hand BI
