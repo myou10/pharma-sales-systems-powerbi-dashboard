@@ -1,8 +1,8 @@
 # pharma-sales-systems-powerbi-dashboard
 
-Dashboard Power BI mô phỏng hệ thống phân tích bán hàng dược phẩm, giúp theo dõi hiệu quả kinh doanh, xu hướng doanh thu và đóng góp của từng nhãn hàng, nhóm thương hiệu và sản phẩm.
+Dashboard Power BI trực quan dữ liệu từ 3 hệ thống bán hàng dược phẩm, giúp theo dõi hiệu quả kinh doanh, xu hướng doanh thu và đóng góp của từng nhãn hàng và sản phẩm theo 3 hệ thống chính.
 
-> **Lưu ý:** Toàn bộ dữ liệu trong dashboard là dữ liệu giả lập, chỉ phục vụ mục đích học tập, xây dựng portfolio và trình diễn kỹ năng Power BI.
+> **Lưu ý:** Toàn bộ dữ liệu trong dashboard là dữ liệu minh họa.
 
 ## Live dashboard
 
@@ -14,7 +14,7 @@ Dashboard Power BI mô phỏng hệ thống phân tích bán hàng dược phẩ
 
 ### Ý nghĩa
 
-Dashboard tổng hợp các chỉ số bán hàng quan trọng trên một giao diện trực quan, giúp người xem nhanh chóng hiểu tình hình kinh doanh dược phẩm và xác định những sản phẩm hoặc nhóm thương hiệu đóng góp nhiều nhất.
+Báo cáo dùng để hiển tình hình kinh doanh và doanh số bán hàng của 3 hệ thống bán hàng theo thời gian. Qua đó giúp theo dõi hiệu quả bán hàng, phân tích doanh thu theo từng chiều dữ liệu để có kế hoạch kinh doanh và ra quyết định kịp thời.
 
 ### Mục tiêu
 
