@@ -185,8 +185,8 @@ Không nên đưa các file `*_backup_*.xlsx`, file tạm của Excel hoặc d�
 ### 1. Tải repository
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/myou10/pharma-sales-systems-powerbi-dashboard.git
+cd pharma-sales-systems-powerbi-dashboard
 ```
 
 ### 2. Mở báo cáo
